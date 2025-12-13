@@ -1,5 +1,5 @@
 === Ultimate SEO Checklist ===
-Contributors: [My-wordpress-dot-org-username]
+Contributors: [your-wordpress-dot-org-username]
 Requires at least: 5.0
 Tested up to: 6.4
 Stable tag: 1.0.0
@@ -62,4 +62,5 @@ The score is calculated based on three weighted categories:
 * Added checks for Keyword in H1/Title/URL, Density, and Content Length.
 * Added advanced checks for Internal/External links and Keyword Anchor Risk.
 * Implemented CWV proxy (Image Dimension) and E-E-A-T checks.
-* Full Internationalization and security
+* Full Internationalization and security hardening (Nonce implementation).
+
