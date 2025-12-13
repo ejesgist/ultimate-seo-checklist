@@ -1,4 +1,5 @@
 === Ultimate SEO Checklist ===
+Contributors Url: https://profiles.wordpress.org/ejesgist/
 Contributors: ejesgist
 Requires at least: 5.0
 Tested up to: 6.4
@@ -6,7 +7,7 @@ Requires PHP: 7.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Donate Link: [YOUR DONATION LINK HERE] ⬅️ **REPLACE THIS**
+Donate Link: [YOUR DONATION LINK HERE] 
 Tags: seo, checklist, core web vitals, eeat, optimization
 
 A real-time, lightweight on-page SEO checklist for the WordPress editor, focusing on core ranking signals and E-E-A-T.
