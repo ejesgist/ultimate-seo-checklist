@@ -1,5 +1,5 @@
 === Ultimate SEO Checklist ===
-Contributors: [your-wordpress-dot-org-username]
+Contributors: [My-wordpress-dot-org-username]
 Requires at least: 5.0
 Tested up to: 6.4
 Stable tag: 1.0.0
