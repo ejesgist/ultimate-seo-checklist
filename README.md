@@ -1,10 +1,12 @@
 === Ultimate SEO Checklist ===
-Contributors: [your-wordpress-dot-org-username]
+Contributors: ejesgist
 Requires at least: 5.0
 Tested up to: 6.4
+Requires PHP: 7.0 
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Donate Link: [YOUR DONATION LINK HERE] ⬅️ **REPLACE THIS**
 Tags: seo, checklist, core web vitals, eeat, optimization
 
 A real-time, lightweight on-page SEO checklist for the WordPress editor, focusing on core ranking signals and E-E-A-T.
@@ -54,6 +56,11 @@ The score is calculated based on three weighted categories:
 2. [Screenshot showing a 'green' score and successful check for the 'Quick Answer Format'.]
 3. [Screenshot highlighting the red 'Anchor Text Risk' warning.]
 
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial public release.
+
 == Changelog ==
 
 = 1.0.0 (December 2025) =
@@ -63,4 +70,3 @@ The score is calculated based on three weighted categories:
 * Added advanced checks for Internal/External links and Keyword Anchor Risk.
 * Implemented CWV proxy (Image Dimension) and E-E-A-T checks.
 * Full Internationalization and security hardening (Nonce implementation).
-
